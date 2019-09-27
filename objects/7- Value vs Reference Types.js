@@ -7,7 +7,7 @@
 // undefined
 // null
 
-// Reference Types
+// Reference Types meaning they are kept in memory
 
 // Object
 // Function
@@ -21,4 +21,5 @@ function increase(obj) {
 
 increase(obj);
 console.log(obj);
-//Conclusion = Primitives are copied by they value, Object are copied by their reference
+
+//Conclusion = Primitives are copied by they value, Object are copied by their reference(in memory)
