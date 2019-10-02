@@ -16,7 +16,7 @@ const person = {
 };
 
 try {
-	person.fullName = '';
+	person.fullName = 'Tupac Shakur';
 } catch (e) {
 	console.log(e);
 	//alert(e)
