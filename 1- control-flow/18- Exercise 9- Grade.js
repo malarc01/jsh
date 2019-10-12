@@ -51,6 +51,8 @@ cg(array);
 
 console.log(cg2(array));
 
+
+// SOLUTION COMPLETE
 function cg2(marks) {
 	const average = calculateAverage(marks);
 
